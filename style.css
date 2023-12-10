@@ -1493,14 +1493,14 @@ main .slider .manual__navigation .manual-btn:hover {
 }
 .first__section-content h1 {
   font-size: 2rem;
-  color: #F1740B;
+  color: #000;
   font-weight: 800;
 }
 .first__section-content p {
   font-size: 1.2rem;
   color: #fff;
   font-weight: 400;
-  color: #F1740B;
+  color: #494949;
 }
 
 .second__section {
@@ -1513,14 +1513,14 @@ main .slider .manual__navigation .manual-btn:hover {
   gap: 20px;
 }
 .second__section .second-content span {
-  color: #F1740B;
+  color: #000;
   font-weight: 600;
 }
 .second__section .second-content p {
   font-size: 1.2rem;
   color: #fff;
   font-weight: 400;
-  color: #F1740B;
+  color: #494949;
 }
 
 @media (max-width: 768px) {
@@ -1645,7 +1645,7 @@ main .slider .manual__navigation .manual-btn:hover {
   margin: 50px auto;
   display: flex;
   flex-direction: column;
-  background: linear-gradient(to right, #68a911, #84D916, #A5DF59);
+  background: #1756EC;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   padding: 40px;
   border-radius: 20px;
@@ -1701,7 +1701,7 @@ main .slider .manual__navigation .manual-btn:hover {
   border-right: 1px solid rgba(200, 200, 200, 0.4);
   border-top: 1px solid #5a5a5a;
   border-left: 1px solid #5a5a5a;
-  color: #F1740B;
+  color: #fff;
   font-size: 1rem;
   font-weight: 400;
 }
@@ -1757,7 +1757,7 @@ main .slider .manual__navigation .manual-btn:hover {
     margin: 50px auto;
     display: flex;
     flex-direction: column;
-    background: linear-gradient(to right, #68a911, #84D916, #A5DF59);
+    background: #1756EC;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     padding: 40px;
     border-radius: 20px;
@@ -1921,7 +1921,7 @@ main .slider .manual__navigation .manual-btn:hover {
   height: 600px;
   display: flex;
   flex-direction: column;
-  background: linear-gradient(to right, #68a911, #84D916, #A5DF59);
+  background: #1756EC;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   padding: 20px;
   border-radius: 20px;
@@ -1977,7 +1977,7 @@ main .slider .manual__navigation .manual-btn:hover {
   border-right: 1px solid rgba(200, 200, 200, 0.4);
   border-top: 1px solid #5a5a5a;
   border-left: 1px solid #5a5a5a;
-  color: #F1740B;
+  color: #fff;
   font-size: 1rem;
   font-weight: 400;
 }
