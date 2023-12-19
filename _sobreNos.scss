@@ -76,13 +76,13 @@
 
             h1 {
                 font-size: 2rem;
-                color: $cor-secundaria;
+                color: $cor-preto;
                 font-weight: 800;
             }
 
             p {
                 @include p-default;
-                color: $cor-secundaria;
+                color: $cor-cinza;
             }
         }
     }

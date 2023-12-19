@@ -1058,16 +1058,16 @@ main .slider .manual__navigation .manual-btn:hover {
     text-transform: uppercase;
     padding: 10px 20px;
     border-radius: 10px;
-    background-color: #fff;
-    color: #F1740B;
-    font-size: 0.8rem;
+    background-color: #1756EC;
+    color: #fff;
+    font-size: 1.2rem;
     font-weight: 500;
     transition: 0.5s;
     z-index: 999;
   }
   .third__section .third__section-container .content a:hover {
-    background-color: #F1740B;
-    color: #1756EC;
+    background-color: #fff;
+    color: #fff;
   }
   .third__section .third__section-container-imagem {
     margin-top: 20px;
@@ -1095,7 +1095,7 @@ main .slider .manual__navigation .manual-btn:hover {
 }
 .fourth__section-content h2 {
   font-size: 2rem;
-  color: #000;
+  color: #F1740B;
   font-weight: 800;
 }
 .fourth__section-content-itens {
@@ -1546,14 +1546,14 @@ main .slider .manual__navigation .manual-btn:hover {
   }
   .first__section-content h1 {
     font-size: 2rem;
-    color: #F1740B;
+    color: #000;
     font-weight: 800;
   }
   .first__section-content p {
     font-size: 1.2rem;
     color: #fff;
     font-weight: 400;
-    color: #F1740B;
+    color: #494949;
   }
 }
 .servicos {

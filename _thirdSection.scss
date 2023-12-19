@@ -29,8 +29,6 @@
                 display: flex;
                 gap: 20px;
 
-
-
                 .btn {
                     border: 0;
                     padding: 10px;
@@ -152,12 +150,12 @@
                 }
 
                 a {
-                    @include a-mobile ($cor-branco, $cor-secundaria, 300px);
+                    @include a-default ($cor-primaria, $cor-branco, 300px);
                     z-index: 999;
 
                     &:hover {
-                        background-color: $cor-secundaria;
-                        color: $cor-primaria;
+                        background-color: $cor-branco;
+                        color: $cor-branco;
                     }
                 }
 
